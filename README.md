@@ -1,5 +1,4 @@
 ![MasterHead](omnom.jpg)
-![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Michal - a FullStack Developer </h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
